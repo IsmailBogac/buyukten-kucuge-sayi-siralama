@@ -1,0 +1,1 @@
+# buyukten-kucuge-sayi-siralama
